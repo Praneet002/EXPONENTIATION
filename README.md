@@ -30,7 +30,7 @@ fun()
 ~~~
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](https://github.com/Praneet002/EXPONENTIATION/blob/main/Screenshot%20(5).png)
 
 
 ## Result:
