@@ -15,10 +15,19 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
+Developed by:Praneet S
+RegisterNumber: 21500603
 */
 ```
+~~~
+def fun():
+    x=int(input())
+    b=x
+    for i in range(10):
+        x=0.5*(x+b/x)
+    print("Square root of the number:",x)
+fun()
+~~~
 
 ## Output:
 ![exponentiation of a number](expo.png)
